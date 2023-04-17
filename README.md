@@ -13,7 +13,7 @@
 
 ## Data Analysis
 
-https://github.com/ryonce/FIFA-Dataset/blob/main/Top%2022.png?raw=true![image](https://user-images.githubusercontent.com/123753784/232502909-2742d3fd-f25b-4bae-bfc2-ebce5307466d.png)
+![](Top 22.png)
 
   - Thef
 
