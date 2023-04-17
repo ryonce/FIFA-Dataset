@@ -15,17 +15,17 @@
 
   ![image](https://user-images.githubusercontent.com/123753784/232584217-396a4478-0fbc-462b-b5f0-69a76f23f858.png)
 
-  - You can see that the experienced players are the ones with the higher wages and 1 veteran. 
+    - This shows the top 22 players on FIFA are mostly unique body types.
 
-  - This makes sense as most players get their high contract near the end of their prime years heading into experienced years.
-
-  - Young are mostly near the lower amount of wages except for a couple creeping near the middle
+    - Also get a view how age is just a number when it comes to the top players!
 
   ![image](https://user-images.githubusercontent.com/123753784/232584498-2f19079d-216b-4a4f-95e9-e189bef82193.png)
   
-  - This shows the top 22 players on FIFA are mostly unique body types.
+    - You can see that the experienced players are the ones with the higher wages and 1 veteran. 
 
-  - Also get a view how age is just a number when it comes to the top players! 
+    - This makes sense as most players get their high contract near the end of their prime years heading into experienced years.
+ 
+    - Young are mostly near the lower amount of wages except for a couple creeping near the middle
 
 ## Model Used
 
