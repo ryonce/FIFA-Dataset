@@ -25,7 +25,7 @@
 
     - This makes sense as most players get their high contract near the end of their prime years heading into experienced years.
  
-    - Young are mostly near the lower amount of wages except for a couple creeping near the middle
+    - Young are mostly near the lower amount of wages except for a couple creeping near the middle.
 
 ## Model Used
 
