@@ -29,7 +29,7 @@
 
 ## Model Used
 
-  - ![image](https://user-images.githubusercontent.com/123753784/232581829-c7353c9c-24d6-48a7-a8d9-f6eadd6dfe6a.png)
+  ![image](https://user-images.githubusercontent.com/123753784/232581829-c7353c9c-24d6-48a7-a8d9-f6eadd6dfe6a.png)
 
   - This model was overall 89% percent accurate in predicting players into a certain category! As you see, some categories were higher but with a 89% outcome for all categories, we would be able to help many clubs with predicting how players Overall Rating would be!
 
