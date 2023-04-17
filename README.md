@@ -25,9 +25,11 @@
   
   - This shows the top 22 players on FIFA are mostly unique body types.
 
-  - Also get a view how age is just a number when it comes to the top players!
+  - Also get a view how age is just a number when it comes to the top players! 
 
-  - The two outliers are K. Benzema (Normal) and J. Kimmich (Lean). 
+## Model Used
+
+  - ![image](https://user-images.githubusercontent.com/123753784/232581829-c7353c9c-24d6-48a7-a8d9-f6eadd6dfe6a.png)
 
 
 
