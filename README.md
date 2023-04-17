@@ -3,7 +3,7 @@
 ## Business Problem:
   - Can we take FIFA data on players and use it to evaluate players on the field based on statistics and characteristics?
 
-  - We want to use the data to report back to Coaches and Owners about players. 
+  - We want to use the data to report back to Coaches and Owners about players to make financial and team management decisions. 
 
 ## Data Source
   - My data was from FIFA 22 game coming from 'https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset?select=Career+Mode+player+datasets+-+FIFA+15-22.xlsx'
@@ -31,10 +31,10 @@
 
   ![image](https://user-images.githubusercontent.com/123753784/232581829-c7353c9c-24d6-48a7-a8d9-f6eadd6dfe6a.png)
 
-  - This model was overall 89% percent accurate in predicting players into a certain category! As you see, some categories were higher but with a 89% outcome for all categories, we would be able to help many clubs with predicting how players Overall Rating would be!
+  - This model was overall 89% percent accurate in predicting players into a certain category! As you see, some categories were higher but with a 89% outcome for all categories, we would be able to help many clubs with predicting what players Overall Rating would be!
 
 ## Summary
 
-  - This model was very good but we could be even better with testing other models and tweaking to get an even higher outcome. I think a good stragety would for out coaches and club owners is to do individual starts on players to see where they could fit into the categories. 
-  - Another part that I would like to do is the potential of a player. These statistics are right now info, so would love to do another model on where players could end up being! 
+  - This model was very good but we could be even better with testing other models and tweaking to get an even higher outcome. I think a good stragety for our coaches and club owners is to do individual stats on players to see where they could fit into the different categories. 
+  - I would also like to provide analysis on the potential of a player. These statistics reflect current player data, so I would love to do another model on projections of player's career paths. 
   - In the end, just like many sports, this data shows the top players are unique with their bodies and have a great feel for the game. Using the graph on salaries, this would be great to help pay players at the right time for the right amount!
