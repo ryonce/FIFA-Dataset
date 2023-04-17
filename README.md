@@ -13,18 +13,25 @@
 
 ## Data Analysis
 
-  ![](Top 22.png)
+  Visual 1(Top 22)
 
-  - Thef
+  - You can see that the experienced players are the ones with the higher wages and 1 veteran. 
+
+  - This makes sense as most players get their high contract near the end of their prime years heading into experienced years.
+
+  - Young are mostly near the lower amount of wages except for a couple creeping near the middle
+
+  Visual 2 (Age Overal)
+  
+  - This shows the top 22 players on FIFA are mostly unique body types.
+
+  - Also get a view how age is just a number when it comes to the top players!
+
+  - The two outliers are K. Benzema (Normal) and J. Kimmich (Lean). 
 
 
 
 
-
-
-2 analytical insights from your data analysis.  
-You can use the 2 plots from Project 2, part 3 for this!
-They should include visualizations AND written interpretations
 The metrics for your best model
 A description of how well your model would solve your business problem
 A summary with at least 2 recommendations for your stakeholders, based on your model performance AND analytical findings.
