@@ -11,7 +11,9 @@
   - This data has stats, info, and characteristics on all the players in the FIFA game 22
 
 
+## Data Analysis
 
+  - 
 
 
 
