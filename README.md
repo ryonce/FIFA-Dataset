@@ -37,4 +37,5 @@
 
   - This model was very good but we could be even better with testing other models and tweaking to get an even higher outcome. I think a good stragety for our coaches and club owners is to do individual stats on players to see where they could fit into the different categories. 
   - I would also like to provide analysis on the potential of a player. These statistics reflect current player data, so I would love to do another model on projections of player's career paths. 
-  - In the end, just like many sports, this data shows the top players are unique with their bodies and have a great feel for the game. Using the graph on salaries, this would be great to help pay players at the right time for the right amount!
+  - Keep the data as current as possible to keep up with player's current play. Player's improve, stay the same or regress through the season, we need to monitor that and keep up to date data.
+  - In the end, just like many sports, this data shows the top players are unique with their bodies and have a great feel for the game. Using the graph on salaries, this would be great way to help pay players at the right time for the right amount!
